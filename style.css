@@ -1,0 +1,29 @@
+#container{
+	width: 696px;
+	height: 1283px;
+	margin: auto;
+	background-color: green;
+	padding: 72px;
+}
+
+.img{
+	background-image: url("img/b1fv.png");
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 614px;
+	height: 860px;
+	margin: auto;
+	margin-bottom: 72px;
+}
+
+.back{
+	display: none;
+}
+
+#text{
+	width: 614px;
+	height: 320px;
+	background-color: yellow;
+	margin: auto;
+}
+
